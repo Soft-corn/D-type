@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-	std::cout << "hello i am under water";
+	std::cout << "hello world iam alive!!";
 	while (true)
 	{
 	}
