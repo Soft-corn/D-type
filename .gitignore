@@ -1,2 +1,14 @@
 /.vs
 /X64
+/CMakeFiles/
+/D-type/CMakeFiles/
+/D-type/D-type.dir/
+/D-type/Debug/
+/D-type/cmake_install.cmake
+#FILES 
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+CMakeCache.txt
+cmake_install.cmake
