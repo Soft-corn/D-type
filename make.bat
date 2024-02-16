@@ -2,4 +2,4 @@ mkdir out
 cd out
 cmake .. -B .
 cmake --build .
-PAUSE 
+cd ..

@@ -1,10 +1,10 @@
 /.vs
 /X64
-/CMakeFiles/
-/D-type/CMakeFiles/
-/D-type/D-type.dir/
-/D-type/Debug/
-/D-type/cmake_install.cmake
+/out/CMakeFiles/
+/out/D-type/CMakeFiles/
+/out/D-type/D-type.dir/
+/out/D-type/Debug/
+/out/D-type/cmake_install.cmake
 /out
 #FILES 
 *.sln
