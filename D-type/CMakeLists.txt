@@ -8,3 +8,9 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(D-type
     "EntryPoint.cpp"
  "Core/Application.h" "Core/Application.cpp")
+
+
+set(SPDLOG_INCLUDE_DIR ${CMAKE_SOURCE_DIR}/vendor/spdlog/include)
+
+target_include_directories(D-type PRIVATE ${SPDLOG_INCLUDE_DIR})
+
