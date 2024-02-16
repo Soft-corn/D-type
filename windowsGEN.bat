@@ -1,3 +1,5 @@
-call cmake ../D-type
-call cmake --build .
+mkdir out
+cd out
+cmake .. -B .
+cmake --build .
 PAUSE 
